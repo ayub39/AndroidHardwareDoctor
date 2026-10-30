@@ -1,0 +1,22 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+dist/
+build/
+
+# Customer Privacy & Sensitive Data (Do NOT commit customer files)
+customer_backup/
+data/*.db
+data/*.png
+data/*.html
+screenshots/
+
+# System & IDE
+.vscode/
+.idea/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
